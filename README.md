@@ -134,11 +134,11 @@ Data Analyst
 
 ## 🎥 Demo Video
 
-🔗 https://drive.google.com/file/d/1lttIPKicuAwEGClHOLZypdy3EDvHlVHp/view?usp=sharing 
+🔗 [Open Video](https://drive.google.com/file/d/1lttIPKicuAwEGClHOLZypdy3EDvHlVHp/view?usp=sharing )
 
 ## Interactive Streamlit Dashboard: 
 
-🔗 [Open Dashboard](https://onlineretaildatasetanalysis-bg6otlobvffs4dd3fdw8hk.streamlit.app/)
+🔗 [Open Dashboard](https://onlineretaildatasetanalysisproject-2wt5kvtc9a3dyps3supccd.streamlit.app/)
 
 ------------------------------------------------------------------------
 
